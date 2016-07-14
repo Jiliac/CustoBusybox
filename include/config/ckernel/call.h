@@ -1,0 +1,1 @@
+#define CONFIG_CKERNEL_CALL 1
